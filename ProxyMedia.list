@@ -462,3 +462,6 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# HANIME1
+DOMAIN-KEYWORD,hanime1

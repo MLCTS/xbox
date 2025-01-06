@@ -2,6 +2,7 @@
 # 数量：79条
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,xbox
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
@@ -87,3 +88,4 @@ DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,msftconnecttest.com
+
